@@ -3,4 +3,4 @@ Nexter是一個房屋買賣網站，製作此網站的目的為練習CSS Grid La
 
 ## 網頁連結
 
-https://nexter-yee.netlify.app/
+- https://nexter-yee.netlify.app/
